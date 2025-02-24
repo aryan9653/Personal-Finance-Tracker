@@ -4,7 +4,7 @@ Personal Finance Tracker is a simple and intuitive web application designed to h
 
 ## 🚀 Features
 
-✅ **Add & Manage Transactions** – Log income and expenses easily.  
+✅ **Add & Manage Transactions** – Log income and expenses easily  
 ✅ **Categorization** – Organize transactions into categories like Food, Bills, Shopping, etc.  
 ✅ **Visual Insights** – View spending trends through interactive charts and graphs.  
 ✅ **Budget Tracking** – Set financial goals and monitor your progress.  
