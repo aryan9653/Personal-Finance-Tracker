@@ -85,7 +85,7 @@ http://localhost:3000
 ```
 
 ## 🙌 Contributing
-Contributions are welcome! Feel free to submit issues and pull requests.request 
+Contributions are welcome! Feel free to submit issues and pull requests.
 
 
 
